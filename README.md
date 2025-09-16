@@ -22,6 +22,8 @@ Deployment-ready Gradio app with modern interactive UI.
 
 Visualizations: prediction gauge + chemical profile radar chart.
 
+Project Link : https://4573803feaadc4a013.gradio.live
+
 🏗️ Tech Stack
 
 Python (scikit-learn, XGBoost, joblib, numpy, pandas)
