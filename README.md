@@ -40,6 +40,10 @@ Expand dataset for generalization.
 
 Add multimodal chemical features.
 
+<img width="1868" height="916" alt="Screenshot 2025-09-16 180956" src="https://github.com/user-attachments/assets/ad8e0373-ca23-4b48-901a-adc2298bc0bb" />
+
+
+
 Integrate explainability (SHAP/LIME).
 
 Deploy as a cloud-hosted app.
