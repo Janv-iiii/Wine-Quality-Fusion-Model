@@ -26,6 +26,29 @@ Visualizations: prediction gauge + chemical profile radar chart.
 
 Python (scikit-learn, XGBoost, joblib, numpy, pandas)
 
+📊 Results
+
+Fusion models outperform baselines in prediction accuracy.
+
+Interactive Gradio dashboard improves user experience.
+
+Visual outputs include prediction gauge and radar charts.
+
+📌 Future Work
+
+Expand dataset for generalization.
+
+Add multimodal chemical features.
+
+Integrate explainability (SHAP/LIME).
+
+Deploy as a cloud-hosted app.
+
+👩‍💻 Author
+
+Janvi Somvanshi
+B.Tech AIML | Aspiring AI Engineer
+
 NLP (Sentence-BERT embeddings)
 
 Visualization (Plotly)
