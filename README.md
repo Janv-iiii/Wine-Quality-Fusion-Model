@@ -42,7 +42,7 @@ Add multimodal chemical features.
 
 <img width="1868" height="916" alt="Screenshot 2025-09-16 180956" src="https://github.com/user-attachments/assets/ad8e0373-ca23-4b48-901a-adc2298bc0bb" />
 
-
+<img width="1880" height="901" alt="Screenshot 2025-09-16 181012" src="https://github.com/user-attachments/assets/a92d3350-5686-4809-a6d3-a494e37d3804" />
 
 Integrate explainability (SHAP/LIME).
 
